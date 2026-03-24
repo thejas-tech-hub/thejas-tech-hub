@@ -52,33 +52,40 @@ From writing efficient algorithms to training AI models, I focus on creating sol
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Languages & Core Skills</h3>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-   <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,flask" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <h3>💻 Languages & Core Skills</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
   <br/><br/>
 </td>
 
+<td width="50%" align="center">
+   <h3>📚 Frameworks & AI Libraries</h3>
+   <img src="https://skillicons.dev/icons?i=fastapi,flask,react,tailwind,nodejs,sklearn" />
+   <br/><br/>
+   <p align="center">
+      <code>LangChain</code> • <code>HuggingFace</code> • <code>Sentence-Transformers</code><br/>
+      <code>PyPDF/PDFMiner</code> • <code>OpenAI API</code>
+   </p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
+  <br/><br/>
+  <p align="center">
+     <b>Vector Databases:</b><br/>
+     <code>ChromaDB</code> • <code>FAISS</code>
+  </p>
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,androidstudio,postman,gcp" />
+    <br/><br/>
+    <p align="center">
+       <code>Cursor IDE</code> • <code>Antigravity</code> • <code>GitHub Copilot</code>
+    </p>
 </td>
 </tr>
 </table>
