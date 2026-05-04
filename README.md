@@ -62,7 +62,7 @@ From writing efficient algorithms to training AI models, I focus on creating sol
    <img src="https://skillicons.dev/icons?i=fastapi,flask,react,tailwind,nodejs,sklearn" />
    <br/><br/>
    <p align="center">
-      <code>LangChain</code> • <code>HuggingFace</code> • <code>Sentence-Transformers</code><br/>
+      <code>HuggingFace</code> • <code>Sentence-Transformers</code><br/>
       <code>PyPDF/PDFMiner</code> • <code>OpenAI API</code>
    </p>
 </td>
@@ -81,7 +81,7 @@ From writing efficient algorithms to training AI models, I focus on creating sol
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma,androidstudio,postman,gcp" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
     <br/><br/>
     <p align="center">
        <code>Cursor IDE</code> • <code>Antigravity</code> • <code>GitHub Copilot</code>
